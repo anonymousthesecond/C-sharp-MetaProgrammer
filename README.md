@@ -26,13 +26,13 @@ Before you start, make sure you have the following installed on your computer:
 1. **Clone the Repository**: Copy the project files to your local machine by running this command in your terminal:
 
    ```
-   git clone https://github.com/your_username/csharp-cmetaprogrammer.git
+   git clone https://github.com/anonymous thesecond/C-sharp-MetaProgrammer.git
    ```
 
 2. **Navigate to the Project Directory**: Move into the project folder using the following command:
 
    ```
-   cd csharp-cmetaprogrammer
+   cd C-sharp-MetaProgrammer
    ```
 
 3. **Build the Project**: Compile the project by executing this command:
